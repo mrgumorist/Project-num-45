@@ -24,7 +24,7 @@ namespace Project_num_45.Controllers
         {
             ViewBag.Message = "Your contact page.";
 
-            return View();
+            return View(); 
         }
     }
 }
